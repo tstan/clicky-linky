@@ -6,3 +6,5 @@ just paste all your links that you want to press one per line in the links.txt f
 you can use ./clickylinky.py to run or probably do some executable magic if you feel like it
 
 I used this script to download some files that were updated everyday to the same download links on a webpage.
+
+getlinks.py contains a function that can get all the links from a webpage using bs4 if you edit it a little bit
